@@ -1,7 +1,7 @@
 import React from "react";
 
-function Cart() {
+function Home() {
   return <div></div>;
 }
 
-export default Cart;
+export default Home;
